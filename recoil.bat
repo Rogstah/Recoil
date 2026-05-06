@@ -1,5 +1,5 @@
 @echo off
-title Recoil
+title Recoil - Made by Rogstah
 echo [*] Installing
 python -m pip install -r requirements.txt
 cls
